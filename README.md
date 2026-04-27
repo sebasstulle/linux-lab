@@ -10,6 +10,6 @@ Running on VirtualBox with Debian 12.
 ```
 Host OS:     Windows 10
 Hypervisor:  VirtualBox 7.x
-VMs:         1x Debian 12 server (headless)
+VMs:         1x Debian 13 server (headless)
 Access:      SSH from host via Tabby
 ```
