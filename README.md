@@ -1,2 +1,15 @@
-# Linux lab
-Laboratorio práctico de Linux con scripts y documentación para troubleshooting, monitoreo y diagnóstico de sistemas.
+# Linux lab — home lab for IT support practice
+
+Hands-on practice environment for Linux system administration and IT support skills.
+Running on VirtualBox with Debian 12.
+
+---
+
+## Environment
+
+```
+Host OS:     Windows 10
+Hypervisor:  VirtualBox 7.x
+VMs:         1x Debian 12 server (headless)
+Access:      SSH from host via Tabby
+```
