@@ -1,7 +1,7 @@
 # Linux lab — home lab for IT support practice
 
 Hands-on practice environment for Linux system administration and IT support skills.
-Running on VirtualBox with Debian 12.
+Running on VirtualBox with Debian 13.
 
 ---
 
